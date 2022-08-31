@@ -1,0 +1,27 @@
+{
+  "name": "markone",
+  "version": "1.0.0",
+  "description": "Do you know me? CLI Quiz App",
+  "main": "bin/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatbeautifuldream/markOne.git"
+  },
+  "keywords": [
+    "CLI",
+    "QuizApp"
+  ],
+  "author": "Milind Mishra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatbeautifuldream/markOne/issues"
+  },
+  "homepage": "https://github.com/thatbeautifuldream/markOne#readme",
+  "bin": {
+    "markOne": "./bin/index.js"
+  }
+}
