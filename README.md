@@ -3,7 +3,7 @@
 ## 🙇🏻‍♂️ Description
 
 - This is a CLI quiz app that will ask you questions about me (Milind Mishra).
-- I have hardcoded the questions and answers in the code.
+- I have hard-coded the questions and answers in the script.
 
 ```javascript
 // Creating the questions array
