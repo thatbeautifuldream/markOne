@@ -23,5 +23,8 @@
   "homepage": "https://github.com/thatbeautifuldream/markOne#readme",
   "bin": {
     "markOne": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.0.1"
   }
 }
